@@ -1,8 +1,8 @@
-# Levi Ackerman
+<h1 align="center"><img src="https://avatars.githubusercontent.com/u/166445635?s=400&u=0f4f5f1140f1a125b3cfc5c9c9bc8d2b942b8c83&v=4" width="30px">Levi Ackerman<img src="https://avatars.githubusercontent.com/u/166445635?s=400&u=0f4f5f1140f1a125b3cfc5c9c9bc8d2b942b8c83&v=4" width="30px"></h1>
 
-Welcome to the official profile of Levi Ackerman! 🚀
+<blockquote><h2>Welcome to the official profile of Levi Ackerman! <img src="https://i.imgflip.com/6xtlnq.gif" width="30px"></h2></blockquote>
 
-Levi Ackerman is a unique Discord bot powered by OpenAI, meticulously designed to emulate the character Levi Ackerman from the popular anime series Attack on Titan. Created and owned by Nathaniel and Haruto, our mission is to provide a captivating and immersive experience for Discord users who are fans of Levi Ackerman.
+<h4><b>Levi Ackerman</b> is a unique Discord bot powered by <a href="https://openai.com/">OpenAI</a>, meticulously designed to emulate the character <a href="https://attackontitan.fandom.com/wiki/Levi_Ackerman">Levi Ackerman</a> from the popular anime series <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">Attack on Titan</a>. Created and owned by <a href ="https://discord.com/users/829427219541393428/">Nathaniel</a> and <a href="https://discord.com/users/1061411114958729287">Haruto</a>, our mission is to provide a captivating and immersive experience for Discord users who are fans of Levi Ackerman.</h4>
 
 ## Features
 
