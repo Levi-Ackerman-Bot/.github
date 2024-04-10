@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://avatars.githubusercontent.com/u/166445635?s=400&u=0f4f5f1140f1a125b3cfc5c9c9bc8d2b942b8c83&v=4" width="30px">Levi Ackerman<img src="https://avatars.githubusercontent.com/u/166445635?s=400&u=0f4f5f1140f1a125b3cfc5c9c9bc8d2b942b8c83&v=4" width="30px"></h1>
+<img src="https://github.com/Levi-Ackerman-Bot/.github/assets/81175228/8a2e95e3-4744-4aba-805f-53a321e7f402" width="1400px" height="400px">
 
 <blockquote><h2>Welcome to the official profile of Levi Ackerman! <img src="https://i.imgflip.com/6xtlnq.gif" width="30px"></h2></blockquote>
 
